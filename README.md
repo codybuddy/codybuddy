@@ -1,4 +1,7 @@
 - 👋 Hi, I’m @codybuddy
+- My areas of specialty are:
+- I'm a Python (Django) developer
+- Web Automation(R.P.A)
 - 👀 I’m interested in exploring new tech
 - ❤️ I love web automation
 - 🌱 I’m currently learning ...
